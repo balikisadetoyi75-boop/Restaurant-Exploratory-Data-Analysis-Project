@@ -1,8 +1,4 @@
-BALIKIS… this README is already strong.  
 
-You’ve clearly explained the project, the framework, the questions, and the insights.  
-
-All it needs now is \*\*clean Markdown formatting\*\* so it looks polished and professional on GitHub — without changing your content.
 
 
 
@@ -93,6 +89,7 @@ This analysis follows a structured exploratory data analysis framework:
 \- \*\*Card payments\*\* are the most preferred payment method, although a significant number of customers still choose \*\*cash on delivery\*\*.  
 
 \- \*\*Peak order time\*\* occurs in the afternoon, with an \*\*average delivery time of approximately 30 minutes\*\*.
+
 
 
 
