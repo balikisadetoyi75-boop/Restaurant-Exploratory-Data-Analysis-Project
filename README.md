@@ -1,4 +1,4 @@
-# **RESTAURANT ORDERS & DELIVERY — EXPLORATORY DATA ANALYSIS PROJECT**
+# **RESTAURANT ORDERS & DELIVERY - EXPLORATORY DATA ANALYSIS PROJECT**
 
 ## **Objective**
 The objective of this project is to understand ordering patterns, restaurant performance, and customer experience across different restaurants within a specific area.
